@@ -3,3 +3,53 @@ text-align: center;
 font-size: 72px;
 
 }
+
+p{/* tamaño  fuente
+	em 1em = 16px
+	= 34px /16px =2.125 em */
+	font-size: 56px;
+}
+
+.par1 {
+
+
+  border: red thin solid;
+  /* tipo  fuente */
+  font-family: Georgia,serif
+  font-weight: 900;
+  font-style: oblique;
+  font-variant: small-caps;
+  line-height: 200%
+.par2 {
+  border: blue medium solid;
+}
+.par3 {
+  border: black thick solid;
+}
+.par4 {
+  border: orange 20px double;
+}
+.par5 {
+  border: green 29px dotted;
+}
+.par6 {
+  border: seagreen 29px solid;
+}
+.par7 {
+  border: blue 29px double;
+}
+.par8 {
+  border: gold 29px dotted;
+}
+.par9 {
+  border: yellow 29px solid;
+}
+.par10 {
+  border: yellow 29px solid;
+}
+
+
+
+em{
+	font-weight: bolder;
+}
