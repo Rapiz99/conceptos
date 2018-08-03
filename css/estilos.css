@@ -1,0 +1,36 @@
+body{
+background-color: red;
+
+}
+
+H1{
+	text-align: center;
+}
+p { font-size: 76;
+
+ } /* aplicando el mismo estilo a p y code */
+ p,code,s,strike{
+ 	font-size: 72px;
+ }
+ em{  color: yellow; 
+ 	font-size: 69px;
+ }
+
+.rap1 {
+	background-color: blue;
+	font-size: 105px
+}
+
+.rap2{ /* propiedad de fondo */
+	background-color: orange;
+	font-size: 300px;
+}
+
+p em{
+color: white;
+
+}
+
+
+
+
